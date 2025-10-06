@@ -9,7 +9,7 @@ Frontend-разработчик с 2+ years опытом. Специализац
 - **Styling:** Sass, Less, Bootstrap
 
 ## Featured Projects
-- [Билет в будущее](https://cbo.ru/program/bilet-v-budushee-kar-ernyj-kvest-ot-biznes-vizita-k-professii) - Career quest platform
+- [Билет в будущее](https://dron-olya7.github.io/ticket-to-the-future/) - Career quest platform
 - [Чайный магазин](https://dron-olya7.github.io/tea_shop_pages/) - Tea e-commerce on Angular
 - [Lumincoin](https://dron-olya7.github.io/lumincoin/) - Personal finance app
 
