@@ -1,6 +1,7 @@
 # Ольга Дрон - Frontend Developer
 
 Frontend-разработчик с 2+ years опытом. Специализация: JavaScript, React, Angular, TypeScript.
+[Резюме](https://dron-olya7.github.io/resume/)
 
 ## Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript
